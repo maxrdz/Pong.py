@@ -1,2 +1,3 @@
-# Pong.py-with-Executable
-My second python project using the same graphics.py library.
+# Pong.py
+## My second python project using the same graphics.py library.
+
