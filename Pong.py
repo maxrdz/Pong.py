@@ -1,6 +1,8 @@
 from graphics import *
 import random
 
+#This program was made while learning python along with my dad.
+
 margin = 10
 moveIncrement = 13
 bounceIncrement = 7
